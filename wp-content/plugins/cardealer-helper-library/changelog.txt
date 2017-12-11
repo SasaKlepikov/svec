@@ -1,0 +1,69 @@
+## Version 1.0.4 (November 17, 2017)	
+Fixed: Car CSV file import process & set backgrond process for import.
+Fixed: Theme Option not appear after plugin update
+Fixed: Move Sunday position after Saturday on Opening Hours Short Code
+Fixed: Reply to mail issue for car detail page forms.
+Moved: Theme Option menu inside new cardealer menu.
+Added: Site layout option in page setting
+Added: New car dealer menu in admin and also set submenu such as "Supports, Plugins, Install Demos, Thene Options, System Status and rating"
+Added: Favicon icon in theme option
+	
+## Version 1.0.3 (October 16, 2017)
+* Added: German and French translations.
+* Added: Instagram in "Social Profiles" theme option.
+* Added: car fields details in PDF generator.
+* Added: categories support in "Cars Carousel" shortcode.
+* Added: filters for cars custom post type and taxonomies.
+* Added: setting to display notice for PDF generation.
+* Added: subtitle for Logo Font in theme option.
+* Added: theme options for 404 page.
+* Fixed: check function to check whether Google Analytics key file exists or not.
+* Fixed: fix for pricing (Regular Price, and Sale Price) issue.
+* Fixed: function to remove temporary generated PDF file.
+* Fixed: missing string translations.
+* Fixed: new fields in Goal functionality.
+* Fixed: Google Analytics key file check function.
+* Fixed: car mileage dropdown issue.
+* Fixed: issue in CSV import/export.
+* Fixed: issue where it was throwing error "Header already sent".
+* Fixed: issue with Sample PDF Template.
+* Fixed: issue with default location in theme option.
+* Fixed: multiple notice issue while generating PDF.
+* Fixed: notice for array_map function in sample data.
+* Fixed: path issue while generating PDF.
+* Removed: Moved Google Analytics tracking code script from "CDHL Helper Plugin to Car Dealer theme.
+* Removed: sidebar page option from car page.
+* Removed: "cardealer" word from default value in "Social Profiles" theme option.
+* Updated: Added icons in custom post types.
+* Updated: Changed testimonials image size to medium.
+* Updated: "Potenza Cars Carousel" shortcode structure.
+* Updated: language translation files.
+* Updated: newsletter error message.
+* Updated: Some typo fixes added.
+* Various minor code/formatting improvements and fixes.
+
+
+## Version 1.0.2 (September 12th, 2017)
+* Added Google Analutics Goal Feature.
+* Added option to choose currency symbol.
+* Added Link in Potenza feature box visual composer element.
+* Added Page setting option in defaut post, product, bbpress and buddypress deail page.
+* Added loader icon in Potenza Custom Filter section.
+* Added option for hide site tagline from theme option.
+* Added address field to display on top bar section.
+* Added French and German language PO/MO File.
+* Fixed Query for Geo fencing nearest value.
+* Fixed Custom post type name using Po/Mo file.
+* Fixed heading seperator option in Potenza section title visual composer element.
+* Fixed Fixed issue with function not suppoted on SunOS Servers (http://php.net/manual/en/function.glob.php#refsect1-function.glob-notes)
+* Removed Heading seperator option from theme setting and moved in "Potenza Section Title" shortcode for more flexibility.
+* Minor code/formatting improvements and fixes.
+
+
+## Version 1.0.1 (August 23, 2017)
+* Added Support for ACF fieldset translation
+* Added Language file for Translate using PO/MO
+
+
+## Version 1.0.0 (August 11, 2017)
+* Initial release
